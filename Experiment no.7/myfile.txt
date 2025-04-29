@@ -1,0 +1,13 @@
+File exists. Here are its contents:
+Hello, this is a test file.
+Do you want to add data to the end of the file? (Yes/No): Yes
+Enter data to append (type 'exit' to stop):
+This is some new data.
+More data added here.
+exit
+Data appended successfully.
+hello
+
+
+
+

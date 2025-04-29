@@ -1,0 +1,3 @@
+Hello from outside the directory!
+This is a test file.
+Have a great day!
